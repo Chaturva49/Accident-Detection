@@ -1,0 +1,14 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Logs
+npm-debug.log*
+yarn-error.log*
